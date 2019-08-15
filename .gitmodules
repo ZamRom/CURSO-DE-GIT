@@ -1,0 +1,3 @@
+[submodule "public/lib"]
+	path = public/lib
+	url = https://github.com/azamudio1971/test-modules.git
